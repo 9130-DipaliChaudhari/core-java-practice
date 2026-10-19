@@ -27,6 +27,13 @@ My goal is to improve my coding skills, logical thinking, and problem-solving ab
 - Print Array Elements
 - More programs will be added as I progress.
 
+## Day 02 - String Programs
+- Reverse a String
+- Check Palindrome String
+- Count Words in a String
+- Count Vowels and Consonants
+- Count Digits in a Number
+
 ## Technologies Used
 - Java
 - VS Code
