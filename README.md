@@ -34,6 +34,14 @@ My goal is to improve my coding skills, logical thinking, and problem-solving ab
 - Count Vowels and Consonants
 - Count Digits in a Number
 
+## Day 03 - Number Programs
+- Count Even and Odd Digits
+- Sum of Digits
+- Count Frequency of a Digit
+- Count Zeros in a Number
+- Check Prime Number
+- Print Fibonacci Series
+
 ## Technologies Used
 - Java
 - VS Code
