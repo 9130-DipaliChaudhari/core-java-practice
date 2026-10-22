@@ -42,6 +42,14 @@ My goal is to improve my coding skills, logical thinking, and problem-solving ab
 - Check Prime Number
 - Print Fibonacci Series
 
+## Day 04 - Number Programs
+- Armstrong Numbe
+- Find the GCD of Two Numbers
+- Find the LCM of Two Numbers
+- Print Multiplication Table
+- Perfect Number
+- Calculate the Power of a Number
+
 ## Technologies Used
 - Java
 - VS Code
