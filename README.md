@@ -50,6 +50,14 @@ My goal is to improve my coding skills, logical thinking, and problem-solving ab
 - Perfect Number
 - Calculate the Power of a Number
 
+## Day 05 - Number Programs
+- Count Characters
+- Factorial Number
+- Isomorphic Strings
+- Longest Palindrome
+- Remove Spaces
+- Strong Number
+
 ## Technologies Used
 - Java
 - VS Code
