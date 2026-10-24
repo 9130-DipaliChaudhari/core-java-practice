@@ -58,6 +58,14 @@ My goal is to improve my coding skills, logical thinking, and problem-solving ab
 - Remove Spaces
 - Strong Number
 
+ ## Day 06 - Program on File Handling
+- Create a File
+- Write Data into a File
+- Read Data from a File
+- Count Lines in a File
+- Count Words in a File
+- Check File Exists
+
 ## Technologies Used
 - Java
 - VS Code
