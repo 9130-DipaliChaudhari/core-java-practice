@@ -66,6 +66,30 @@ My goal is to improve my coding skills, logical thinking, and problem-solving ab
 - Count Words in a File
 - Check File Exists
 
+## Day 07 
+- AppendFile
+- CopyFile
+- CountCharacters
+- SearchWord
+- UppercaseFile
+- VowelCounter
+
+## Day 08 - programs on patterns
+- FloydTriangle
+- InvertedPattern
+- NumberPattern
+- Pattern
+- PyramidPattern
+- StarPattern
+
+## Day 09 - programs on patterns
+- ButterflyStarPattern
+- DiamandPattern
+- PascalsTriangle
+- print_rectangle
+- print_squaredi
+- SquareFillPattern
+  
 ## Technologies Used
 - Java
 - VS Code
